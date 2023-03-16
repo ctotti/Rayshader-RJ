@@ -10,8 +10,6 @@ output:
 
 ## Sobre o tutorial
 
-Geoprocessamento + Linguagens da programação
-
 Este tutorial se originou a partir da confecção de um relatório de atividades da autora, Camila Totti, para o projeto do qual é integrante - "[Processamento e Análise de Dados Ambientais com R](https://sites.google.com/uenf.br/pexcca-lametuenf/extens%C3%A3o/processamento-e-an%C3%A1lise-de-dados-ambientais-com-r?authuser=0)" do Laboratório de Metereologia da UENF. Na busca por métodos de confeccionar mapas de alta qualidade no R, ela encontrou um [tutorial](https://www.youtube.com/watch?v=zgFXVhmKNbU&t=3148s) da autoria de [Spencer Schien](https://github.com/Pecners) ensinando a criar um mapa 3D no R utilizando o pacote Rayshader.
 
 Porque criar um tutorial baseado em um tutorial? A decisão foi motivada por dois fatores principais. Primeiro, o original é em inglês e a divulgação na língua portuguesa é mais um facilitador para o acesso a informação. Segundo, foram alguns dias e muita pesquisa de *bug corrections* e erros inesperados, alguns sem precedentes que foram "resolvidos na marra", uma vez que não haviam registros anteriores ou haviam registros mas ainda lhes faltavam solução. Portanto, esse tutorial também busca polpar aqueles que têm interesse em trilhar o mesmo caminho sem ter que lidar com os mesmos obstáculos.
