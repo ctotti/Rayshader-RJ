@@ -7,7 +7,7 @@ Este tutorial se originou a partir da confecção de um relatório de atividades
 **Porque criar um tutorial baseado em um tutorial?** A decisão foi motivada por dois fatores principais:
 
 1.  O original é em inglês e a divulgação na língua portuguesa é mais um facilitador para o acesso a informação;
-2.  Foram alguns dias e muita pesquisa de *bug corrections* e erros inesperados, alguns sem precedentes que foram "resolvidos na marra", uma vez que não haviam registros anteriores ou haviam registros mas ainda lhes faltavam solução. Portanto, esse tutorial também busca polpar aqueles que têm interesse em trilhar o mesmo caminho sem ter que lidar com os mesmos obstáculos.
+2.  Foram alguns dias e muita pesquisa de *bug corrections* e erros inesperados, alguns sem precedentes que foram "resolvidos na marra", uma vez que não haviam registros anteriores ou haviam registros mas ainda lhes faltavam solução. Portanto, esse tutorial também busca polpar aqueles que têm interesse em trilhar o mesmo caminho de ter que lidar com os mesmos obstáculos.
 
 A seguir o leitor terá acesso, portanto, a um tutorial detalhado de como gerar um mapa 3D de alta qualidade utilizando o pacote [rayshader](https://www.rayshader.com/) e dados de densidade populacional do site da Kontur, a partir da linguagem de programação R. Apesar do foco ser a geração do mapa 3D com o pacote `rayshader`, este tutorial abrange todas as etapas da produção do mapa, desde a obtenção dos dados ao processamento deles, até a parte de renderização do mapa 3D em si.
 
